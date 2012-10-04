@@ -1,7 +1,7 @@
 AS3 XML Easy Loader
 ===================
 
-Easy AS3 Static Class to load a XML.
+Easy AS3 Class to load a XML.
 
 Usage
 -----
