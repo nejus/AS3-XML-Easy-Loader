@@ -7,4 +7,4 @@ Usage
 -----
 import com.nejus.XMLLoad;
 
-var transport:XMLLoad = new XMLLoad (path, {vars:{}, onComplete:function(){}});
+var transport:XMLLoad = new XMLLoad (path, {vars:{}, onComplete:function(data){}});
