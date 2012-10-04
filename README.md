@@ -1,10 +1,10 @@
 AS3 XML Easy Loader
 ===================
 
-Easy AS3 Class to load a XML.
+Easy ActionScript 3 Class to load a XML in one step.
 
 Usage
 -----
 import com.nejus.XMLLoad;
 
-var transport:XMLLoad = new XMLLoad (path, {vars:{}, onComplete:function(data){}});
+var transport:XMLLoad = new XMLLoad (MY_PATH_URL, {vars:{}, onComplete:function(data){  }});
